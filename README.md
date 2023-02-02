@@ -10,7 +10,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 <a  href="https://www.facebook.com/mustafizurrahaman.arif/"><img width="35" height="35" src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png"></a>      &nbsp;&nbsp;      <a  href="https://www.youtube.com/channel/UCItWEIurQ6zkr6nf9ogAlaQ"><img width="35" height="35" src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png"></a> &nbsp;&nbsp;      <a  href="https://www.learnwithfiz.com/"><img width="35" height="35" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png"></a> &nbsp;&nbsp;      <a  href="https://m.facebook.com/Learn-With-Fiz-100901461681318/"><img width="35" height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtKcO1NQaFWcTuS7odOunSJ7QcI3JnO1z9UZNjoOgGged9wQ0&s"></a>
 
-#### 👨🏽‍💻   My Skills & Videos: 
+### 👨🏽‍💻   My Skills & Videos: 
 ##### 👉Skills: 
 <img width="35" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;&nbsp;&nbsp;&nbsp;<img width="35" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">  &nbsp;&nbsp;&nbsp;&nbsp;     <img width="35" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">&nbsp;&nbsp;&nbsp;&nbsp;<img width="35" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;&nbsp;&nbsp;&nbsp;<img width="55" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">&nbsp;&nbsp; &nbsp;&nbsp;<img width="35" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;&nbsp; &nbsp;&nbsp;  <img width="35" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">&nbsp;&nbsp; &nbsp;&nbsp;<img width="35" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">&nbsp;&nbsp; &nbsp;&nbsp;;<img width="35" height="35" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png">&nbsp;&nbsp; &nbsp;&nbsp;<img width="35" height="35" src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png">&nbsp;&nbsp; &nbsp;&nbsp;<img width="35" height="35" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png">&nbsp;&nbsp; &nbsp;&nbsp;<img width="35" height="35" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">&nbsp;&nbsp; &nbsp;&nbsp;<a href="https://youtube.com/playlist?list=PLTmFffuXWQFkNYiGXr3Un6pqJZRi-eAtl"><img width="35" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></a>  &nbsp;&nbsp; &nbsp;&nbsp;
          
@@ -24,11 +24,26 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 ##### <a href="https://www.youtube.com/channel/UCItWEIurQ6zkr6nf9ogAlaQ">👉Search more Videos</a>
 
+<br><br>
 
+### 👨🏻‍🎓   Education
 
+B.Sc. in Computer Science & Engineering <br>
+Varendra University <br>
+Rajshahi, Bangladesh. <br>
+<br><br>
+### 👨🏻‍ Language 
+<ul><li>Bangla : Native</li><li>English : Intermediate</li></ul>
+<br><br>
 
+### 👨🏻‍ Sports/Hobby 
+<ul><li>🏏 Cricket, ⚽ Football, </li> <li>  🏃‍♂️ Running, 🚶‍♂️ Walking  ✈️ Travelling</li></ul>
+<br><br>
 
-
+### 🏅 Awards :
+ <ul><li>4.2k subscribers currently</li><li>Debate Champion & best Debater from VU 2022</li></ul>
+ 
+###### <p> All rights reserved by Learn with fiz@2023</p>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Learnwithfiz)  
@@ -39,11 +54,9 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Learnwithfiz)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Learnwithfiz&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Learnwithfiz&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Learnwithfiz)  
-
-![GitHub metrics](https://metrics.lecoq.io/Learnwithfiz)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Learnwithfiz)  
 
