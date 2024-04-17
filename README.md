@@ -1,4 +1,4 @@
-![image](https://github.com/Learnwithfiz/Learnwithfiz/assets/124195671/7e164f61-89f4-43ed-a28e-e15310b6331a)<img width="100%" src="https://scontent.fdac165-1.fna.fbcdn.net/v/t39.30808-6/436229717_2218250431846764_9187092921136259267_n.jpg?stp=dst-jpg_p960x960&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFFaTxovhE-9nmRg9FpbfPxvZOBsP0Odxa9k4Gw_Q53FlnD3ctcS7XZPBDtcrmVbO0dDIzSTn7GsmpD_IEFMMhY&_nc_ohc=jHHb2bNW90EAb7TIAmn&_nc_ht=scontent.fdac165-1.fna&oh=00_AfAQTKSfRkkEWdf3wipht9V-KSVN2Y2jGATdZJlKyXNs4A&oe=66256498">  
+![image](https://github.com/Learnwithfiz/Learnwithfiz/assets/124195671/7e164f61-89f4-43ed-a28e-e15310b6331a)<img width="100%" src=">  
 
 ## Hi It's Learn with Fiz 👋
 #### I'm Mostafizur, a Full Stack Web Application Developer from  Bangladesh and  full time content creator. <a href="https://www.youtube.com/channel/UCItWEIurQ6zkr6nf9ogAlaQ">Learn with fiz (youtube)</a>
